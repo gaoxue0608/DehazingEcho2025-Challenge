@@ -4,7 +4,7 @@ The first benchmark and grand challenge for reverberation-induced near-field haz
 
 ## Overview
 
-The DehazingEcho 2025 Grand Challenge focuses on clinically meaningful haze suppression in transthoracic echocardiography (TTE), particularly targeting reverberation-induced near-field haze artifacts. The challenge provides a dedicated benchmark for evaluating echocardiographic dehazing methods from multiple perspectives, including haze removal, anatomical structure preservation, and downstream clinical utility.
+The DehazingEcho 2025 Grand Challenge focuses on clinically meaningful haze suppression in transthoracic echocardiography (TTE), particularly targeting reverberation-induced near-field haze. The challenge provides a dedicated benchmark for evaluating echocardiographic dehazing methods from multiple perspectives, including haze removal, anatomical structure preservation, and downstream clinical utility.
 
 This repository will host the public resources associated with the DehazingEcho 2025 Grand Challenge, including the EchoHaze dataset and the technical reports submitted by participating teams.
 
